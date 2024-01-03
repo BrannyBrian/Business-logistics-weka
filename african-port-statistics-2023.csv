@@ -1,0 +1,163 @@
+Port,Port Name,Port RegionId,Indicator,Indicator Name,Indicator unit,Scale,Units,2018,2019,2020,2021,2022
+AO,Angola,AO,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,6915000,7100000,7171110,7242821,6535300
+BI,Burundi,BI,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,204929,182810,136077,137437,140000
+BI,Burundi,BI,12376616,Container Traffic (TEUs),TEUs,units,TEUs,,,811,819,827
+DJ,Djibouti,DJ,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,5432353,5489586,7470937,9379573,12147383
+DJ,Djibouti,DJ,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,2767810
+DJ,Djibouti,DJ,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,37.05
+DJ,Djibouti,DJ,12376616,Container Traffic (TEUs),TEUs,units,TEUs,195250,224896,294902,356462,519500
+DJ,Djibouti,DJ,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,163038
+DJ,Djibouti,DJ,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,55.29
+ER,Eritrea,ER,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,571915,635461,641816,648234,654000
+KE,Kenya,KE,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,13281000,14419000,15962355,16414729,19062000
+KE,Kenya,KE,12376616,Container Traffic (TEUs),TEUs,units,TEUs,436671,479355,585367,615733,618816
+MU,Mauritius,MU,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,5602466,5686342,6226381,6295154,5878440
+MU,Mauritius,MU,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-416714
+MU,Mauritius,MU,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-6.69
+MU,Mauritius,MU,12376616,Container Traffic (TEUs),TEUs,units,TEUs,253770,266425,303583,334924,368416
+MU,Mauritius,MU,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,33492
+MU,Mauritius,MU,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,11.03
+MZ,Mozambique,MZ,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,9982400,10598400,10869837,11458975,11957400
+MZ,Mozambique,MZ,12376616,Container Traffic (TEUs),TEUs,units,TEUs,159072,170571,192732,223745,242979
+NA,Namibia,NA,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,3012166,3567174,3933647,4795631,5052014
+NA,Namibia,NA,12376616,Container Traffic (TEUs),TEUs,units,TEUs,72219,117547,143806,194102,171480
+RE,Reunion,RE,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,3765077,3947463,4212109,4286963,4457000
+RE,Reunion,RE,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,170037
+RE,Reunion,RE,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,4.04
+RE,Reunion,RE,12376616,Container Traffic (TEUs),TEUs,units,TEUs,189147,200837,245685,255371,275799
+RE,Reunion,RE,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,20428
+RE,Reunion,RE,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,8.31
+RW,Rwanda,RW,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,523800,439286,523939,529178,535000
+RW,Rwanda,RW,12376616,Container Traffic (TEUs),TEUs,units,TEUs,,,4698,4744,4791
+ZA,S. Africa,ZA,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,173555067,179983594,183353197,185079584,182733841
+ZA,S. Africa,ZA,12376616,Container Traffic (TEUs),TEUs,units,TEUs,3014236,3416780,3712090,3900319,3512550
+SC,Seychelles,SC,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,755055,755600,763156,770787,778000
+SD,Sudan,SD,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,7857967,9270190,8317633,8400809,8484000
+SD,Sudan,SD,12376616,Container Traffic (TEUs),TEUs,units,TEUs,267711,330690,342148,390834,431223
+SD,Sudan,SD,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,40389
+SD,Sudan,SD,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,11.8
+TZ,Tanzania,TZ,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,6863858,7291106,7427274,7421204,8103000
+TZ,Tanzania,TZ,12376616,Container Traffic (TEUs),TEUs,units,TEUs,258389,272700,333980,373548,353738
+KN.A16,Beira,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,2419000,2652500,2961200,2990812,2996100
+KN.A16,Beira,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,5288
+KN.A16,Beira,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0.18
+KN.A16,Beira,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,54303,54268,71167,85716,92236
+KN.A16,Beira,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,6520
+KN.A16,Beira,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,9.16
+KN.A17,Bujumbura,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,204929,182810,136077,137437,140000
+KN.A17,Bujumbura,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,2563
+KN.A17,Bujumbura,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,1.88
+KN.A17,Bujumbura,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,,,811,819,827
+KN.A17,Bujumbura,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,8
+KN.A17,Bujumbura,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,0.99
+KN.A18,Cape Town,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,3508711,4134740,4081968,3205094,3058601
+KN.A18,Cape Town,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-146493
+KN.A18,Cape Town,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-3.59
+KN.A18,Cape Town,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,690895,782868,764005,767501,759951
+KN.A18,Cape Town,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-7550
+KN.A18,Cape Town,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-0.99
+KN.A19,Dar Es Salaam,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,6863858,7291106,7427274,7421204,8103000
+KN.A19,Dar Es Salaam,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,681796
+KN.A19,Dar Es Salaam,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,9.18
+KN.A19,Dar Es Salaam,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,258389,272700,333980,373548,353738
+KN.A19,Dar Es Salaam,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-19810
+KN.A19,Dar Es Salaam,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-5.93
+KN.A20,Durban,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,40778495,43861241,41883269,41402495,37419282
+KN.A20,Durban,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-3983213
+KN.A20,Durban,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-9.51
+KN.A20,Durban,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,1899065,2198600,2479232,2642165,2395084
+KN.A20,Durban,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-247081
+KN.A20,Durban,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-9.97
+KN.A21,East London,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,1647848,1506111,1832892,1982498,1796569
+KN.A21,East London,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-185929
+KN.A21,East London,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-10.14
+KN.A21,East London,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,49338,38308,41986,57418,42224
+KN.A21,East London,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-15194
+KN.A21,East London,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-36.19
+KN.A22,Elizabeth,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,4189731,4870513,5547377,5427094,4605550
+KN.A22,Elizabeth,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-821544
+KN.A22,Elizabeth,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-14.81
+KN.A23,Lobito,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,665000,700000,707110,714181,
+KN.A23,Lobito,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-714181
+KN.A23,Lobito,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-101
+KN.A24,Luanda,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,5100000,5200000,5252000,5304520,5310100
+KN.A24,Luanda,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,5580
+KN.A24,Luanda,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0.11
+KN.A25,Magerwa,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,523800,439286,523939,529178,535000
+KN.A25,Magerwa,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,5822
+KN.A25,Magerwa,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,1.11
+KN.A25,Magerwa,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,,,4698,4744,4791
+KN.A25,Magerwa,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,47
+KN.A25,Magerwa,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,1
+KN.A26,Maputo,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,6366900,6672200,6826000,7374700,8176100
+KN.A26,Maputo,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,801400
+KN.A26,Maputo,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,11.74
+KN.A26,Maputo,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,57676,65555,63764,74792,85851
+KN.A26,Maputo,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,11059
+KN.A26,Maputo,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,17.34
+KN.A27,Massawa,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,571915,635461,641816,648234,654000
+KN.A27,Massawa,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,5766
+KN.A27,Massawa,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0.9
+KN.A28,Mombasa,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,13281000,14419000,15962355,16414729,19062000
+KN.A28,Mombasa,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,2647271
+KN.A28,Mombasa,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,16.58
+KN.A28,Mombasa,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,436671,479355,585367,615733,618816
+KN.A28,Mombasa,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,3083
+KN.A28,Mombasa,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,0.53
+KN.A29,Mossel Bay,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,1597950,1518597,1802992,1995491,1747858
+KN.A29,Mossel Bay,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-247633
+KN.A29,Mossel Bay,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-13.73
+KN.A30,Nacala,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,875500,950100,755700,763257,785200
+KN.A30,Nacala,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,21943
+KN.A30,Nacala,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,2.9
+KN.A30,Nacala,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,32171,34045,44687,49770,52620
+KN.A30,Nacala,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,2850
+KN.A30,Nacala,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,6.38
+KN.A31,Namibe,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,1150000,1200000,1212000,1224120,1225200
+KN.A31,Namibe,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,1080
+KN.A31,Namibe,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0.09
+KN.A32,Pemba,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,5241,7973,8244,9295,7846
+KN.A32,Pemba,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-1449
+KN.A32,Pemba,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-17.58
+KN.A33,Port Elizabeth,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,369759,392813,422846,423885,309018
+KN.A33,Port Elizabeth,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-114867
+KN.A33,Port Elizabeth,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-27.17
+KN.A34,Port Suda,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,7857967,9270190,8317633,8400809,8484000
+KN.A34,Port Suda,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,83191
+KN.A34,Port Suda,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,1
+KN.A35,Quelimane,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,321000,323600,326937,330206,
+KN.A35,Quelimane,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-330206
+KN.A35,Quelimane,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-101
+KN.A35,Quelimane,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,9681,8730,4870,4172,4426
+KN.A35,Quelimane,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,254
+KN.A35,Quelimane,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,5.22
+KN.A36,Richard Bay,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,86623684,86319200,84517409,84533584,77630356
+KN.A36,Richard Bay,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-6903228
+KN.A36,Richard Bay,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,-8.17
+KN.A36,Richard Bay,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,5179,4191,4021,9350,6273
+KN.A36,Richard Bay,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-3077
+KN.A36,Richard Bay,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-76.52
+KN.A37,Saldanha,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,35208648,37773192,43687290,46533328,56475625
+KN.A37,Saldanha,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,9942297
+KN.A37,Saldanha,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,22.76
+SO,Somalia,SO,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,,,299320,,
+SO,Somalia,SO,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0
+KN.A39,Victoria,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,755055,755600,763156,770787,778000
+KN.A39,Victoria,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,7213
+KN.A39,Victoria,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,0.95
+KN.A40,Walvis Bay,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,3012166,3567174,3933647,4795631,5052014
+KN.A40,Walvis Bay,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,256383
+KN.A40,Walvis Bay,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,6.52
+KN.A40,Walvis Bay,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,72219,117547,143806,194102,171480
+KN.A40,Walvis Bay,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-22622
+KN.A40,Walvis Bay,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-15.73
+KN.A41,Total,-,12376316,Cargo Traffic (M.Tonnes),million tonnes,units,Million tonnes,238323053,249366012,257308788,262861079,266517378
+KN.A41,Total,-,12376416,"Cargo Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,3656299
+KN.A41,Total,-,12376516,"Cargo Traffic, Annual Growth (%)",%,units,%,,,,,1.42
+KN.A41,Total,-,12376616,Container Traffic (TEUs),TEUs,units,TEUs,4848470,5481807,6154293,6650601,6500119
+KN.A41,Total,-,12376716,"Container Traffic, Annual Growth (Volume)",volume,units,Volume,,,,,-150482
+KN.A41,Total,-,12376816,"Container Traffic, Annual Growth (%)",%,units,%,,,,,-2.45
+KN.A41,Total,-,12486616,Qwe,-,units,,1,1,1,1,1
+,,,,,,,,,,,,
+Source:,African Development Bank Group,,,,,,,,,,,
+Download URL:,http://opendataforafrica.org/oaqvrhf/african-port-statistics-2013,,,,,,,,,,,
