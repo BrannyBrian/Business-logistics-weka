@@ -1,2 +1,2 @@
 Business logistics report using weka
-wechat id ProFcs_1351
+wechat id Profcs_1351
